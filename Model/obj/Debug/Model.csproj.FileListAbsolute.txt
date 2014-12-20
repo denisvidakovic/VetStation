@@ -1,0 +1,17 @@
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Model\bin\Debug\Model.dll
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Model\bin\Debug\Model.pdb
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Model\bin\Debug\Castle.ActiveRecord.dll
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Model\bin\Debug\Castle.Components.Validator.dll
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Model\bin\Debug\Castle.Core.dll
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Model\bin\Debug\Iesi.Collections.dll
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Model\bin\Debug\log4net.dll
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Model\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Model\bin\Debug\NHibernate.dll
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Model\bin\Debug\NHibernate.Search.dll
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Model\bin\Debug\System.Data.SQLite.dll
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Model\bin\Debug\Castle.ActiveRecord.xml
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Model\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Model\bin\Debug\System.Data.SQLite.xml
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Model\obj\Debug\Model.dll
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Model\obj\Debug\Model.pdb

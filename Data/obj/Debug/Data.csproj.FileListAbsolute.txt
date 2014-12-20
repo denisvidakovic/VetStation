@@ -1,0 +1,13 @@
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Data\bin\Debug\Data.dll
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Data\bin\Debug\Data.pdb
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Data\bin\Debug\ExcelLibrary.dll
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Data\bin\Debug\itextsharp.dll
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Data\bin\Debug\System.Data.SQLite.dll
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Data\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Data\bin\Debug\System.Data.SQLite.xml
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Data\obj\Debug\Data.csproj.ResolveComReference.cache
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Data\obj\Debug\Data.Properties.Resources.resources
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Data\obj\Debug\Data.dll
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\Data\obj\Debug\Data.pdb
