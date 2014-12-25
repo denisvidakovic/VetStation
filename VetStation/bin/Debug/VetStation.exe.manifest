@@ -194,7 +194,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>dc8f5DMX8AO2AZQnB5nuqwPVxto=</dsig:DigestValue>
+        <dsig:DigestValue>u9cKv5h7hyKba5On4SM72gAaSYc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -216,6 +216,15 @@
       <dsig:DigestValue>k4fvIrPDnjkQpj4AljU414wleKs=</dsig:DigestValue>
     </hash>
   </file>
+  <file name="res\db\VeterinaryStation.s3db" size="38912">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>9bo00SHOODuWcxm2yP5yTiNasHA=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="res\LOGO JP.jpg" size="250190">
     <hash>
       <dsig:Transforms>
@@ -234,13 +243,13 @@
       <dsig:DigestValue>ug1wMu+fG1KSAK96GIq3i6aVG7M=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="VetStation.exe.config" size="1481">
+  <file name="VetStation.exe.config" size="1490">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>nr56z2ax71ckJv97PYGJNfQpW6s=</dsig:DigestValue>
+      <dsig:DigestValue>Ipz+A9J88KnKPxyOpjlaO5QZ2Ak=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

@@ -42,3 +42,4 @@ C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\VetStation\obj\x
 C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\VetStation\obj\x86\Debug\VetStation.application
 C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\VetStation\obj\x86\Debug\VetStation.exe
 C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\VetStation\obj\x86\Debug\VetStation.pdb
+C:\Users\Sicha\Documents\Visual Studio 2013\Projects\VetStation\VetStation\bin\Debug\res\db\VeterinaryStation.s3db
